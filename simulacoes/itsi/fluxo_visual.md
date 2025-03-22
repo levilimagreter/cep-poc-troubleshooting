@@ -16,10 +16,10 @@ graph TD
   B1 -->|Não| B2[Valor constante (flat)?]
   B2 -->|Sim| E1[Base search retorna sempre mesmo valor?]
   E1 -->|Sim| F5[Revisar métrica e campo extraído]
+  E1 -->|Não| G1[Verificar transformação em SPL]
 
   B2 -->|Não| B3[KPI sem drilldown ou histórico?]
-  B3 --> F6[Revisar visualizações e configuração de detalhamento]
+  B3 --> F6[Revisar visualizações e detalhamento do KPI]
 ```
 
 > 💡 Este fluxograma cobre os principais caminhos de troubleshooting para KPIs do ITSI que estão nulos, constantes ou não aparecem corretamente.
-
