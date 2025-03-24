@@ -51,7 +51,7 @@ Capacitar profissionais a resolverem problemas Splunk com autonomia, clareza e m
 ---
 
 ## ✍️ Mantenedor
-Este projeto é mantido por [Levi Lima Greter](https://github.com/levilimagreter), como parte da trilha de capacitação e suporte a parceiros do ecossistema Splunk no Brasil.
+Este projeto é mantido por [Levi Lima Greter](https://www.linkedin.com/in/lelima/), como parte da trilha de capacitação e suporte a parceiros do ecossistema Splunk no Brasil.
 
 ---
 
