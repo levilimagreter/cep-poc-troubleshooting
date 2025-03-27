@@ -11,8 +11,9 @@ Explicação técnica da causa, como ausência de tag, macro malformada, index i
 **🔍 Passos de Investigação:**
 1. Buscar no `index=*` e verificar dados brutos
 2. Avaliar tags e campos esperados com `tag=*` ou `sourcetype=*`
-3. Testar macros envolvidas no painel/alerta
-4. Usar `btool`, `_internal`, `rest`, e `inputlookup` conforme o caso
+3. O data model está acelerado?
+4. Testar macros envolvidas no painel/alerta
+5. Usar `btool`, `_internal`, `rest`, e `inputlookup` conforme o caso
 
 **🔧 Correção:**
 - Ajustar configuração de sourcetype, macro, ou lookup
