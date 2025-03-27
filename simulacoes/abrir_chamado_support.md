@@ -48,5 +48,8 @@ Em alguns casos, um splunkd.log ou web_service.log de depuração é útil.
 
 Splunk Doc:
 
+https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/Generateadiag
 https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/HowtofileagreatSupportcase
 https://www.splunk.com/en_us/pdfs/support/working-with-support.pdf
+https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/Enabledebuglogging
+
