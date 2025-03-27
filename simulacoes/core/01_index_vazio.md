@@ -42,5 +42,6 @@ Após a correção, os dados começam a aparecer normalmente em `index=main`.
 Erros simples como o nome de um índice incorreto podem causar ausência total de dados visíveis. Usar `btool` e `_internal` acelera muito o diagnóstico.
 
 Splunk Doc:
+
 https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/Eventcount
 https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/Usebtooltotroubleshootconfigurations
