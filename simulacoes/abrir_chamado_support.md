@@ -1,4 +1,4 @@
-**Como abrir um caso de suporte**
+# Como abrir um caso de suporte
 
 Ao entrar em contato com o suporte, você pode economizar tempo fornecendo todas as informações relevantes. Aqui estão algumas ideias para você começar.
 
@@ -20,7 +20,7 @@ A maioria dos casos de suporte são para problemas funcionais: o software foi co
 
 Você pode fazer um diag em qualquer tipo de instância: forwarder, indexador, search head ou deployment server. Se você tiver um forwarder e um receptor que não estejam funcionando corretamente juntos, envie-nos diags de ambos. Rotule os diags para que fique claro de qual instância cada um é. Se você tiver muitos encaminhadores, envie apenas um diag de encaminhador representativo.
 
-O tarball diag não contém nenhum dos seus dados indexados, mas você pode examinar seu conteúdo antes de enviá-lo. Leia sobre o que você pode incluir ou excluir dos diags em Gerar um arquivo de diagnóstico neste manual.
+**O tarball diag não contém nenhum dos seus dados indexados**, mas você pode examinar seu conteúdo antes de enviá-lo. Leia sobre o que você pode incluir ou excluir dos diags em Gerar um arquivo de diagnóstico neste manual.
 
 O Suporte Splunk pode solicitar outro diag após recomendar uma alteração ou atualização para a instância. Este diag pode verificar se a alteração foi aplicada e examinar seu efeito. Não é incomum ter vários diags atualizados para um único caso. Se você enviar vários diags, rotule cada um claramente.
 
