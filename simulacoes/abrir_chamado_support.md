@@ -47,4 +47,6 @@ Um ldif para um usuário como o qual você está tentando se autenticar.
 Em alguns casos, um splunkd.log ou web_service.log de depuração é útil.
 
 Splunk Doc:
+
 https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/HowtofileagreatSupportcase
+https://www.splunk.com/en_us/pdfs/support/working-with-support.pdf
