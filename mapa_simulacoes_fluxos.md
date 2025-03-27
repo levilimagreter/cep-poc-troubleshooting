@@ -126,3 +126,6 @@
 | ES | 29_alerta_investigacao_nao_linka | (não identificado) |
 | ES | 30_nao_gera_risco_esperado | (não identificado) |
 | ES | fluxo_es | fluxo_es_visual_agendamento.md |
+
+Splunk Doc:
+https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/IntrototroubleshootingSplunk
