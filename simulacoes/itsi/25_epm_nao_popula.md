@@ -1,6 +1,6 @@
 # Simulação ITSI – 25 Entity Performance Management não popula
 
-**🔹 Título:** 25 epm nao popula
+**🔹 Título:** 25 Entity Performance Management não popula
 
 **❗ Problema:**
 Descrição clara e realista de um erro comum enfrentado por usuários do ITSI.
