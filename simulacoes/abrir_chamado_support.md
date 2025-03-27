@@ -45,3 +45,6 @@ O arquivo authentication.conf de $SPLUNK_HOME/etc/system/local/.
 Um ldif para um grupo para o qual você está tentando mapear funções.
 Um ldif para um usuário como o qual você está tentando se autenticar.
 Em alguns casos, um splunkd.log ou web_service.log de depuração é útil.
+
+Splunk Doc:
+https://docs.splunk.com/Documentation/Splunk/latest/Troubleshooting/HowtofileagreatSupportcase
